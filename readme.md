@@ -1,3 +1,2 @@
-## My python Learning
+# LearningPython
 My learnings on python from CodeWithHarry Youtube Video.
-

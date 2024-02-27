@@ -1,0 +1,1 @@
+Short hand if else statements
